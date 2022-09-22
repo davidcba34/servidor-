@@ -1,0 +1,24 @@
+[
+    {
+        title:'Escuadra',
+        price :150,
+        thumbnail:"https://www.flaticon.com/free-icons/ruler",
+        id:1
+    }  ,
+    {
+        title:'Regla',
+        price :200,
+        thumbnail:"https://www.flaticon.com/free-icons/ruler",
+        id:2
+    },
+    {
+        title:'Goma',
+        price :100,
+        thumbnail:"https://www.flaticon.com/free-icons/ruler",
+        id:3
+    },
+
+
+
+]
+
